@@ -346,7 +346,7 @@ nav input{
 
 
 .about-section{
-  background: url(home1.jpg) no-repeat right;
+  background: url(images/home1.jpg) no-repeat right;
   background-size: 55%;
   background-color: #FFCDDE;
   overflow: hidden;
@@ -691,7 +691,7 @@ margin-bottom: 0;
   }
   p{
   text-align: center;
-  color: #b2bec3;
+  color: #080808;
   padding: 0 8px;
   }
   
